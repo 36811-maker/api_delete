@@ -1,0 +1,17 @@
+------------POST-----------
+http://127.0.0.1:5000/jogo
+---------------------------
+
+Body - raw - JSON
+
+{
+  "titulo": "God of War",
+  "genero": "Ação e Aventura e Hack and Slash",
+  "desenvolvedor": " David Jaffe"
+  "plataforma": "PlayStation (PS4 e PS5) e no PC"
+}
+
+------------GET------------
+http://127.0.0.1:5000/Carro
+http://127.0.0.1:5000/Carro/1
+---------------------------
